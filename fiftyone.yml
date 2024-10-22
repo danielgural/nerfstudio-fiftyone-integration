@@ -1,0 +1,7 @@
+name: "@danielgural/nerfstudio"
+description: NerfStudio_Panel
+version: 1.0.0
+fiftyone:
+ version: "*"
+operators:
+ - NerfStudio_Panel
