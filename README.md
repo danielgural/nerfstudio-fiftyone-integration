@@ -1,0 +1,1 @@
+# nerfstudio-fiftyone-integration
